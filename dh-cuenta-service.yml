@@ -1,0 +1,3 @@
+server:
+    port: ${PORT:9998}
+message: Configuracion del conusmidor, servidor esta levantado para el perfil DEV
